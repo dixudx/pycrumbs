@@ -315,6 +315,7 @@
 * [Lanyrd - Python Videos](http://lanyrd.com/topics/python/video/)
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
+* [New Boston Python Videos](http://www.youtube.com/watch?v=4Mf0h3HphEA)
 
 ##Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
