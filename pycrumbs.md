@@ -155,7 +155,7 @@
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 
-##Environment and Enivronment Management
+##Environment and Environment Management
 * [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
 * [Getting started with virtual env](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
