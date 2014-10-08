@@ -25,3 +25,15 @@
 * Samidh
 * Manuel Gutierrez
 * Tushar Sappal
+* Victor Felder
+* Muhammad Yasoob Ullah Khalid
+* Manuel E. Gutierrez
+* Jeroen van Wensen
+* Frank V
+* Hariharan Rangasamy
+* Santosh Kumar
+* David Sarma
+* Dhiraj Thakur
+* Yang Yang
+* Mushfiq-E Mahabub
+* Jalem Raj Rohit
